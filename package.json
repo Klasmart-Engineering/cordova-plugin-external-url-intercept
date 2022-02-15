@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-external-url-intercept",
+  "name": "@KL-Engineering/cordova-plugin-external-url-intercept",
   "version": "0.1.0",
   "description": "Cordova External Url Intercept Plugin",
   "cordova": {
@@ -32,5 +32,12 @@
         "cordova": ">100"
       }
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KL-Engineering/cordova-plugin-external-url-intercept"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
